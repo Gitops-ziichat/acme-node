@@ -4,7 +4,7 @@ import { greet } from "../../controllers/v1/greetingController.js";
 
 const router = Router();
 
-router.get("/hello", greet);
+router.get("/hi123", greet);
 
 
 export default router;
